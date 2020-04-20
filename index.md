@@ -14,13 +14,11 @@ Graduando em Matemática Computacional pela Universidade Federal de Minas Gerais
 ```python
 #Python
 from cProfile import Profile
+profiler = Profile()
 
-def profiling():
-  profiler = Profile()
+def decorator(fn):
+   def inner(self, *args, **kwargs):
+      return profiler.runcall(fn, *args, **kwargs) 
+   return inner
 
-  def decorator(fn):
-     def inner(self, *args, **kwargs):
-        return profiler.runcall(fn, *args, **kwargs) 
-     return inner
-  return decorator
 ```
