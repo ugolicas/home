@@ -10,6 +10,9 @@ Graduando em Matemática Computacional pela Universidade Federal de Minas Gerais
 
 [Latex](https://www.linkedin.com/in/igor-lucas-a92550106) [Linkedin](https://www.enacom.com.br/images/lattes.jpg) 
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) [Latex](https://www.linkedin.com/in/igor-lucas-a92550106)
 
 ```js
 // Javascript code with syntax highlighting.
