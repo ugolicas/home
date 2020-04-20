@@ -2,7 +2,7 @@
 
 Graduando em Matemática Computacional pela Universidade Federal de Minas Gerais (UFMG). Possui curso técnico em Informática pelo Sistema FIEMG, participação na Olimpíada do Conhecimento e atividades extracurriculares como Iniciação Científica e monitoria. Conhecimentos em programação em C, C++, R, Java e Desenvolvimento Mobile. Atualmente pesquisador júnior na ENACOM na célula de Otimização.
 
-![GitHub Logo](Image.jpg)
+![GitHub Logo](Image.jpeg)
 
 ### Markdown
 
