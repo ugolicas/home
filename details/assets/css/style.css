@@ -338,8 +338,8 @@ body {
           border: 1px solid #3a5976; }
         @media screen and (max-width: 500px) {
           .profile-box .home .image-box .fa-tumblr {
-            margin-left: -45px;
-            margin-top: 240px; } }
+            margin-left: -200px;
+            margin-top: 200px; } }
       .profile-box .home .image-box .fa-github {
         background-color: #7292a2;
         margin-left: -11px;
@@ -354,8 +354,8 @@ body {
             margin-top: -29px; } }
       .profile-box .home .image-box .fa-youtube {
         background-color: #f45750;
-        margin-top: -45px;
-        margin-left: 230px; }
+        margin-top: 200px;
+        margin-left: 100px; }
         .profile-box .home .image-box .fa-youtube:hover {
           background-color: #FFF;
           color: #f45750;
