@@ -12,19 +12,15 @@ Graduando em Matemática Computacional pela Universidade Federal de Minas Gerais
   [<img src="assets/img/linkedin.png" alt="drawing" style="width:100px;"/>](https://www.linkedin.com/in/igor-lucas-a92550106)
 
 ```python
+#Python
 from cProfile import Profile
-profiler = Profile()
 
-def decorator(fn):
-   def inner(self, *args, **kwargs):
-      return profiler.runcall(fn, *args, **kwargs) 
-   return inner
-```
+def profiling():
+  profiler = Profile()
 
-```c
-float Matrix(int m, int n, float **v){
-  v = (float **) calloc (m, sizeof(float *));
-  for ( int i = 0; i < m; i++ )
-      v[i] = (float*) calloc (n, sizeof(float)); 
-}
+  def decorator(fn):
+     def inner(self, *args, **kwargs):
+        return profiler.runcall(fn, *args, **kwargs) 
+     return inner
+  return decorator
 ```
