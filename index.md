@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Mais detalhes](second_page/index.html).
+[Mais detalhes](details/index.html).
 
 ## Sobre mim
 
