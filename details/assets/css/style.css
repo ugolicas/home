@@ -290,7 +290,7 @@ body {
           border: 1px solid #3b5998; }
         @media screen and (max-width: 500px) {
           .profile-box .home .image-box .fa-facebook-f {
-            margin-left: -94px;
+            margin-left: -100px;
             margin-top: -40px; } }
       .profile-box .home .image-box .fa-twitter {
         background-color: #1da1f2;
@@ -362,8 +362,8 @@ body {
           border: 1px solid #f45750; }
         @media screen and (max-width: 500px) {
           .profile-box .home .image-box .fa-youtube {
-            margin-top: -28px;
-            margin-left: 145px; } }
+            margin-top: 40px;
+            margin-left: 56px; } }
       .profile-box .home .image-box .fa-dribbble {
         background-color: #ef5b92;
         margin-left: 106px;
