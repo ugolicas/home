@@ -248,6 +248,10 @@ body {
     @media screen and (max-width: 355px) {
       .profile-box .head-top ul .res {
         display: none; } }
+    @media screen and (max-width: 500px) {
+          .profile-box .head-top ul .act {
+            margin-left: 10px;
+            border-bottom: 2px solid #4BBB5A; } }
     .profile-box .head-top ul .act {
       border-bottom: 2px solid #4BBB5A; }
   .profile-box .home {
@@ -291,7 +295,7 @@ body {
         @media screen and (max-width: 500px) {
           .profile-box .home .image-box .fa-facebook-f {
             margin-left: -70px;
-            margin-top: 40px; } }
+            margin-top: -120px; } }
       .profile-box .home .image-box .fa-twitter {
         background-color: #1da1f2;
         margin-left: -11px;
