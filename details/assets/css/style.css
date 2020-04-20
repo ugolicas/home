@@ -338,8 +338,8 @@ body {
           border: 1px solid #3a5976; }
         @media screen and (max-width: 500px) {
           .profile-box .home .image-box .fa-tumblr {
-            margin-left: 168px;
-            margin-top: -99px; } }
+            margin-left: -45px;
+            margin-top: 240px; } }
       .profile-box .home .image-box .fa-github {
         background-color: #7292a2;
         margin-left: -11px;
