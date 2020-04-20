@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Link to another page](teste.html).
+[Link to another page](second_page/index.html).
 
 ## Sobre mim
 
