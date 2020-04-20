@@ -4,6 +4,6 @@ layout: cayman
 
 ## Welcome to another page
 
-_yay_ oooooo
+cayman layout
 
 [back](./)
