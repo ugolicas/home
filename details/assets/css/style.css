@@ -295,7 +295,7 @@ body {
         @media screen and (max-width: 500px) {
           .profile-box .home .image-box .fa-facebook-f {
             margin-left: -70px;
-            margin-top: -120px; } }
+            margin-top: -65px; } }
       .profile-box .home .image-box .fa-twitter {
         background-color: #1da1f2;
         margin-left: -11px;
