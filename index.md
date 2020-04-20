@@ -12,7 +12,7 @@ Graduando em Matemática Computacional pela Universidade Federal de Minas Gerais
 
 
 [<img src="assets/img/lattes.png" alt="drawing" style="width:100px;"/>](http://lattes.cnpq.br/0983117412894173) 
-  [<img src="assets/img/linkedin.png" alt="drawing" style="width:100px;"/>)](https://www.linkedin.com/in/igor-lucas-a92550106)
+  [<img src="assets/img/linkedin.png" alt="drawing" style="width:100px;"/>](https://www.linkedin.com/in/igor-lucas-a92550106)
 
 
 ```js
