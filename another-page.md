@@ -1,5 +1,5 @@
 ---
-layout: jekyll-theme-cayman
+layout: cayman
 ---
 
 ## Welcome to another page
