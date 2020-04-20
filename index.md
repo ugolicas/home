@@ -4,15 +4,12 @@ layout: default
 
 [Link to another page](./another-page.html).
 
-# Header 1
+## Sobre mim
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Graduando em Matemática Computacional pela Universidade Federal de Minas Gerais (UFMG). Possui curso técnico em Informática pelo Sistema FIEMG, participação na Olimpíada do Conhecimento e atividades extracurriculares como Iniciação Científica e monitoria. Conhecimentos em programação em C, C++, R, Java e Desenvolvimento Mobile. Atualmente pesquisador júnior na ENACOM na célula de Otimização.
 
-## Title 1
+[Latex](https://www.linkedin.com/in/igor-lucas-a92550106) [Linkedin](https://www.enacom.com.br/images/lattes.jpg) 
 
-> When something is important enough, you do it even if the odds are not in your favor.
-
-## Title 2
 
 ```js
 // Javascript code with syntax highlighting.
@@ -28,32 +25,3 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
-## Title 3
-
-*   This is an unordered list following a header.
-
-## Title 4
-
-1.  This is an ordered list following a header.
-
-## Title 5
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-
