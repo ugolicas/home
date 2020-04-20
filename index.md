@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Igor Lucas
 
-You can use the [editor on GitHub](https://github.com/ugolicas/home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Graduando em Matemática Computacional pela Universidade Federal de Minas Gerais (UFMG). Possui curso técnico em Informática pelo Sistema FIEMG, participação na Olimpíada do Conhecimento e atividades extracurriculares como Iniciação Científica e monitoria. Conhecimentos em programação em C, C++, R, Java e Desenvolvimento Mobile. Atualmente pesquisador júnior na ENACOM na célula de Otimização.
 
 ### Markdown
 
