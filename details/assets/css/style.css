@@ -281,16 +281,16 @@ body {
             font-size: 14px;
             padding: 7px; } }
       .profile-box .home .image-box .fa-facebook-f {
-        margin-top: -308px;
+        margin-top: 220px;
         background-color: #3b5998;
-        margin-left: 106px; }
+        margin-left: 0px; }
         .profile-box .home .image-box .fa-facebook-f:hover {
           background-color: #FFF;
           color: #3b5998;
           border: 1px solid #3b5998; }
         @media screen and (max-width: 500px) {
           .profile-box .home .image-box .fa-facebook-f {
-            margin-left: -100px;
+            margin-left: -70px;
             margin-top: -40px; } }
       .profile-box .home .image-box .fa-twitter {
         background-color: #1da1f2;
@@ -362,8 +362,8 @@ body {
           border: 1px solid #f45750; }
         @media screen and (max-width: 500px) {
           .profile-box .home .image-box .fa-youtube {
-            margin-top: 40px;
-            margin-left: 56px; } }
+            margin-top: 140px;
+            margin-left: 46px; } }
       .profile-box .home .image-box .fa-dribbble {
         background-color: #ef5b92;
         margin-left: 106px;
