@@ -8,8 +8,6 @@ layout: default
 
 Graduando em Matemática Computacional pela Universidade Federal de Minas Gerais (UFMG). Possui curso técnico em Informática pelo Sistema FIEMG, participação na Olimpíada do Conhecimento e atividades extracurriculares como Iniciação Científica e monitoria. Conhecimentos em programação em C, C++, R, Java e Desenvolvimento Mobile. Atualmente pesquisador júnior na ENACOM na célula de Otimização.
 
-[Latex](https://www.linkedin.com/in/igor-lucas-a92550106) [Linkedin](https://www.enacom.com.br/images/lattes.jpg) 
-
 [![Latex](assets/img/lattes.png)](http://lattes.cnpq.br/0983117412894173) [![Linkedin](assets/img/linkedin.png)](https://www.linkedin.com/in/igor-lucas-a92550106)
 
 
